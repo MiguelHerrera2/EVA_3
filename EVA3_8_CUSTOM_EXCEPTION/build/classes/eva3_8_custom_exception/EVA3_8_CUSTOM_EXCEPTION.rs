@@ -1,0 +1,4 @@
+eva3_8_custom_exception.Persona
+eva3_8_custom_exception.DatoIncorrectoCheckedException
+eva3_8_custom_exception.DatoIncorrectoException
+eva3_8_custom_exception.EVA3_8_CUSTOM_EXCEPTION
